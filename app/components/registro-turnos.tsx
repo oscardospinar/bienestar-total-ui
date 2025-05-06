@@ -14,7 +14,7 @@ import { RadioGroup, RadioGroupItem } from "../components/ui/radio-group"
 import { Popover, PopoverContent, PopoverTrigger } from "../components/ui/popover"
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "../components/ui/command"
 import { Checkbox } from "../components/ui/checkbox"
-import { cn } from "../lib/utils"
+import { cn } from "../../lib/utils"
 import ConfirmacionTurno from "../components/confirmacion-turno"
 
 // Definición del esquema de validación
